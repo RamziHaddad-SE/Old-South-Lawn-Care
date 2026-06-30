@@ -1390,3 +1390,10 @@ select.field-control {
   .float-badge--3 { left: 0; }
   .float-badge--4 { right: 0; }
 }
+
+/* ===== Real photography: hero card + results grid (Aurora) ===== */
+.hero__card{background-image:url('https://images.unsplash.com/photo-1458245201577-fc8a130b8829?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.results-grid .result-card:nth-child(1) .result-card__img{background-image:url('https://images.unsplash.com/photo-1628340981113-fe1949fe5cc0?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.results-grid .result-card:nth-child(2) .result-card__img{background-image:url('https://images.unsplash.com/photo-1549448046-b89e7214060d?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.results-grid .result-card:nth-child(3) .result-card__img{background-image:url('https://images.unsplash.com/photo-1530297333184-26b347aaa2a2?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.results-grid .result-card:nth-child(4) .result-card__img{background-image:url('https://images.unsplash.com/photo-1601989874863-e67a5a734f56?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
